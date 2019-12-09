@@ -5,7 +5,7 @@ PImage transfer;
 
 int loc;
 //Image mode = 0, Pallete mode = 1
-int mode = 0;
+//int mode = 0;
 
 //RGB values for the two images
 float []baseRGB = new float[3];
